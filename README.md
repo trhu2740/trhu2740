@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Troy Husted</h1>
 <h3 align="center">Studying Mechanical Engineering and Computer Science at the University of Colorado Boulder</h3>
+<img align="right" alt="Debugging" width = 400 src = "https://media.tenor.com/RQ4eycoIn5sAAAAd/debugging-we-bare-bears.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trhu2740&label=Profile%20views&color=0e75b6&style=flat" alt="trhu2740" /> </p>
 
