@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Troy Husted</h1>
 <h3 align="center">Studying Mechanical Engineering and Computer Science at the University of Colorado Boulder</h3>
-<img align="right" alt="Debugging" width = 400 src = "https://media.tenor.com/RQ4eycoIn5sAAAAd/debugging-we-bare-bears.gif">
+<img align="right" alt="Debugging" width = 400 src = "https://www.reactiongifs.us/wp-content/uploads/2017/12/giphy-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trhu2740&label=Profile%20views&color=0e75b6&style=flat" alt="trhu2740" /> </p>
 
