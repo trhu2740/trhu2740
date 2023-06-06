@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trhu2740&label=Profile%20views&color=0e75b6&style=flat" alt="trhu2740" /> </p>
 
-- 🔨 I'm currently working on **learning neural networks**
+- 🔨 I'm currently working on **neural networks**
 
 - 🌱 I’m currently learning **PyTorch**
 
@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/colorado.edu/troyhusted/home](https://sites.google.com/colorado.edu/troyhusted/home)
 
-- 💬 Ask me about **React Native, Python, C++, Data Structures**
+- 💬 Ask me about **Swift, React Native, Python, C++, Data Structures**
 
 - 📫 How to reach me **trhu2740@colorado.edu**
 
