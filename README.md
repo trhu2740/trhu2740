@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trhu2740&label=Profile%20views&color=0e75b6&style=flat" alt="trhu2740" /> </p>
 
-- Download my iOS app [Homework Planner: Recitation]([url](https://www.recitation-app.com/))
+- Download my iOS app Homework Planner: Recitation [https://www.recitation-app.com/](https://www.recitation-app.com/)
 
-- Download my iOS app [Habit Hippo: Quit Addictions]([url](https://apps.apple.com/us/app/habit-hippo-quit-addictions/id1665389545))
+- Download my iOS app Habit Hippo: Quit Addictions [https://apps.apple.com/us/app/habit-hippo-quit-addictions/id1665389545](https://apps.apple.com/us/app/habit-hippo-quit-addictions/id1665389545)
 
 - 🔨 I'm currently working on **neural networks**
 
