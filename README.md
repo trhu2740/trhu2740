@@ -1,28 +1,10 @@
 <h1 align="center">Hi, I'm Troy Husted</h1>
-<h3 align="center">Studying Mechanical Engineering and Computer Science at the University of Colorado Boulder</h3>
+<h3 align="center">Mechanical Engineer & Software Engineer</h3>
 <img align="right" alt="Debugging" width = 400 src = "https://www.reactiongifs.us/wp-content/uploads/2017/12/giphy-1.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trhu2740&label=Profile%20views&color=0e75b6&style=flat" alt="trhu2740" /> </p>
 
 - Download my iOS app Homework Planner: Recitation [https://www.recitation-app.com/](https://www.recitation-app.com/)
 
 - Download my iOS app Habit Hippo: Quit Addictions [https://apps.apple.com/us/app/habit-hippo-quit-addictions/id1665389545](https://apps.apple.com/us/app/habit-hippo-quit-addictions/id1665389545)
-
-- 🔨 I'm currently working on **neural networks**
-
-- 🌱 I’m currently learning **PyTorch**
-
-- 🔐 I'm working towards **building a sustainable environment**
-
-- 👨‍💻 All of my projects are available at [https://sites.google.com/colorado.edu/troyhusted/home](https://sites.google.com/colorado.edu/troyhusted/home)
-
-- 💬 Ask me about **Swift, React Native, Python, C++, Data Structures**
-
-- 📫 How to reach me **trhu2740@colorado.edu**
-
-- 📄 Know about my experiences [https://sites.google.com/colorado.edu/troyhusted/resum%C3%A9-certifications](https://sites.google.com/colorado.edu/troyhusted/resum%C3%A9-certifications)
-
-- ⚡ Fun fact **I am a 2x National Qualifier for Powerlifting!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
