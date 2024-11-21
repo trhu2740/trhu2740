@@ -2,6 +2,8 @@
 <h3 align="center">Mechanical Engineer & Software Engineer</h3>
 <img align="right" alt="Debugging" width = 400 src = "https://www.reactiongifs.us/wp-content/uploads/2017/12/giphy-1.gif">
 
+Please note that many of my iOS app development projects are for-profit, and are not open source.
+
 - Download my iOS app Homework Planner: Recitation [https://www.recitation-app.com/](https://www.recitation-app.com/)
 
 - Download my iOS app Habit Hippo: Quit Addictions [https://apps.apple.com/us/app/habit-hippo-quit-addictions/id1665389545](https://apps.apple.com/us/app/habit-hippo-quit-addictions/id1665389545)
